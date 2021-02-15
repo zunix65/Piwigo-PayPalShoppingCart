@@ -174,7 +174,7 @@ function ppppp_append_js($tpl_source, &$smarty){
   return $tpl_source;
  $pattern = '#{/foreach}#';  
  $replacement = '{/foreach}
- <li><a href="" title="'.l10n('View my PayPal Shopping Cart').'" onclick="document.forms[\'ppppp_form_view_cart\'].submit()">'.l10n('View Shopping Cart').'</a></li>
+ <dl id="paypalShoppingCart"><dt><a href="" title="'.l10n('View my PayPal Shopping Cart').'" onclick="document.forms[\'ppppp_form_view_cart\'].submit()">'.l10n('View Shopping Cart').'</a></dt></dl>
  <form name="ppppp_form_view_cart" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
      <input type="hidden" name="cmd" value="_cart">
      <input type="hidden" name="business" value="{$ppppp_e_mail}">
