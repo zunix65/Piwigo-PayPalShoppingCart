@@ -9,20 +9,20 @@ Author URI: http://www.queguineur.fr
 */
 /*
   Plugin Panier PayPal Pour Piwigo
-  Copyright (C) 2011 www.queguineur.fr — Tous droits réservés.
+  Copyright (C) 2011 www.queguineur.fr Â— Tous droits rÃ©servÃ©s.
   
   Ce programme est un logiciel libre ; vous pouvez le redistribuer ou le
-  modifier suivant les termes de la “GNU General Public License” telle que
-  publiée par la Free Software Foundation : soit la version 3 de cette
-  licence, soit (à votre gré) toute version ultérieure.
+  modifier suivant les termes de la Â“GNU General Public LicenseÂ” telle que
+  publiÃ©e par la Free Software Foundation : soit la version 3 de cette
+  licence, soit (Ã  votre grÃ©) toute version ultÃ©rieure.
   
-  Ce programme est distribué dans l’espoir qu’il vous sera utile, mais SANS
-  AUCUNE GARANTIE : sans même la garantie implicite de COMMERCIALISABILITÉ
-  ni d’ADÉQUATION À UN OBJECTIF PARTICULIER. Consultez la Licence Générale
-  Publique GNU pour plus de détails.
+  Ce programme est distribuÃ© dans lÂ’espoir quÂ’il vous sera utile, mais SANS
+  AUCUNE GARANTIE : sans mÃªme la garantie implicite de COMMERCIALISABILITÃ‰
+  ni dÂ’ADÃ‰QUATION Ã€ UN OBJECTIF PARTICULIER. Consultez la Licence GÃ©nÃ©rale
+  Publique GNU pour plus de dÃ©tails.
   
-  Vous devriez avoir reçu une copie de la Licence Générale Publique GNU avec
-  ce programme ; si ce n’est pas le cas, consultez :
+  Vous devriez avoir reÃ§u une copie de la Licence GÃ©nÃ©rale Publique GNU avec
+  ce programme ; si ce nÂ’est pas le cas, consultez :
   <http://www.gnu.org/licenses/>.
 */
 /*
@@ -31,11 +31,11 @@ Historique
 Version initiale
 		
 1.0.1   10/02/2011
-Ajout du Plugin URI pour permettre les mises à jours
-Traduction en Anglais du Plugin Name et du nom du répertoire
+Ajout du Plugin URI pour permettre les mises Ã  jours
+Traduction en Anglais du Plugin Name et du nom du rÃ©pertoire
         
 1.0.2   10/02/2011
-Correction du problème de compatibilité avec exif view (double affichage des boutons)
+Correction du problÃ¨me de compatibilitÃ© avec exif view (double affichage des boutons)
 	
 1.0.3   15/02/2011
 Add lv_LV (Latvian) thanks to Aivars Baldone
@@ -44,8 +44,8 @@ Add lv_LV (Latvian) thanks to Aivars Baldone
 Add de_DE and it_IT (par Sugar888)
 
 1.0.5   27/02/2011
-Correction pb compatibilité avec certains thèmes
-Déplacement des boutons PayPal en début de table info
+Correction pb compatibilitÃ© avec certains thÃ¨mes
+DÃ©placement des boutons PayPal en dÃ©but de table info
 
 1.0.6   05/03/2011
 Add sk_SK (by dodo)
